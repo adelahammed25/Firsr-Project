@@ -1,0 +1,61 @@
+/* 
+---------------
+Global Start
+--------------- 
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: inter;
+  border: none;
+  line-height: 1em;
+  font-size: 16px;
+}
+
+.btn-primary {
+  padding: 12px 40px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+  background: #1d4ed8;
+  color: #fff;
+}
+
+/* 
+---------------
+Global End
+--------------- 
+*/
+
+/* 
+---------------
+Navbar Start
+--------------- 
+*/
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1340px;
+  margin: auto;
+  align-items: center;
+  padding: 25px 0px;
+}
+
+.nav {
+  display: flex;
+  column-gap: 24px;
+}
+
+.nav a {
+  color: #575757;
+}
+
+/* 
+---------------
+Navbar End
+--------------- 
+*/
